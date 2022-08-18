@@ -1,4 +1,4 @@
-package features;
+package stepdefinations;
 
 import io.cucumber.java.en.But;
 import io.cucumber.java.en.Given;
