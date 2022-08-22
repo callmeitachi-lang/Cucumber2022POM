@@ -6,9 +6,9 @@ Given I Navigate to register page
 When I enter the below details
   |firstname|kanwar| 
   |lastname |singh  |
-  |email|knwrpl.singh12@gmail.com|
-  |telephone|123455345|
-  |password|Kanwar@77|
+  |email|knwrpl.singh342@gmail.com|
+  |telephone|123455341|
+  |password|Kanwar@775|
   
   And I select the privacy policy option
 And I click on Continue button

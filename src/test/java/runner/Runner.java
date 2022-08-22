@@ -10,9 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 		,
 		features="src/test/java/features",// to have the feature file added
 		monochrome=true,
-	glue="stepdefinations",
+	glue="stepdefinations"
 	// to match with the step defination
-	tags="@Books"	
+	//tags="@Books"	
 		)
 public class Runner {
 

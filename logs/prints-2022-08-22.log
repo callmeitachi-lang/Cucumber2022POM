@@ -1,0 +1,5 @@
+16:11:49.567 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+16:12:05.724 [AsyncHttpClient-1-10] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+16:12:15.826 [main] INFO  stepdefinations.Search - --->I visit the website as a guest user
+16:12:15.830 [main] INFO  stepdefinations.Search - --->I select the books option from the search icon
+16:12:15.834 [main] INFO  stepdefinations.Search - I select the books option from the search icon

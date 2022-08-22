@@ -1,0 +1,3 @@
+16:12:15.838 [main] INFO  stepdefinations.Search - --->I should see the page heading as Amazon Best Reads is getting displayed
+16:12:15.877 [main] INFO  stepdefinations.Search - --->I should not see the other category products
+16:12:15.889 [AsyncHttpClient-1-16] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
